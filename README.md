@@ -1,2 +1,7 @@
 # REPOSITORY
-this is my first program
+this is really awesome Repository
+now editing on update-readme branch
+update locally,then remotely
+
+
+
